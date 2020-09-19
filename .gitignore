@@ -1,0 +1,15 @@
+ 
+# Variable files
+terraform.tfvars
+
+### https://raw.github.com/github/gitignore/abad92dac5a4306f72242dae3bca6e277bce3615/Terraform.gitignore
+
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.backup
+
+# Terraform directory
+.terraform/
+terraform.tfstate.d/
